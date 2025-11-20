@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Random Number Generator",
+  "description": "A modern, secure random number generator built with React and TypeScript. It allows users to generate random numbers within a custom range, with options for including decimals, generating multiple numbers, and using cryptographically secure randomness.",
+  "requestFramePermissions": []
+}

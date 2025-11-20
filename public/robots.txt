@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://numbergenerator.doodax.com/sitemap.xml
