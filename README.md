@@ -7,7 +7,7 @@
 > A professional-grade, cryptographically secure random number generation suite built for accuracy, performance, and modern web standards.
 
 <div align="center">
-  <h3>🚀 <a href="https://numbergenerator.doodax.com" target="_blank">LIVE DEMO: NumberGenerator.doodax.com</a></h3>
+  <h3>🚀 <a href="https://doodax.com/tools/random-number-generator/index.html" target="_blank">LIVE DEMO: doodax.com</a></h3>
 </div>
 
 ---
